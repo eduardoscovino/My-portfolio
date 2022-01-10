@@ -19,5 +19,5 @@ My credentials include a Chemical Engineering Bachelor (engineers are everywhere
 * [LinkedIn](https://https://www.linkedin.com/in/eduardo-scovino-943461b8/)
 * [Medium](https://medium.com/@eduardoscovino)
 
-## Projetos:
+## Projects:
 ---
