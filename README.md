@@ -20,4 +20,5 @@ My credentials include a Chemical Engineering Bachelor (engineers are everywhere
 * [Medium](https://medium.com/@eduardoscovino)
 
 ## Projects:
+* [Airbnb Analysis in Sicily](https://github.com/eduardoscovino/Airbnb-data-analysis-sicilia) (in Portuguese)
 ---
