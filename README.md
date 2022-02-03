@@ -5,7 +5,7 @@
 # Eduardo Scovino
 <sub>*Data Consultant*</sub>
 
-Hi, evebody! Welcome to my portifolio page!
+Hi, evebody! Welcome to my portfolio page!
 
 I am a senior data consultant with 4 years of experience working on consulting firms and my expertise industry is in Telecom Industry (I'm open to know more about other industries as well)
 
