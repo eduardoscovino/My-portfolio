@@ -7,7 +7,7 @@
 
 Hi, evebody! Welcome to my portfolio page!
 
-I am a senior data consultant with 4 years of experience working on consulting firms and my expertise industry is in Telecom Industry (I'm open to know more about other industries as well)
+I am a senior data consultant with 6 years of experience working on consulting firms and my expertise industry is in Telecom Industry (I'm open to know more about other industries as well)
 
 Having spend the last years working with data treatment and visualization, I developed a critical thinking and problem-solving skills.
 
