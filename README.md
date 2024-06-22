@@ -22,4 +22,5 @@ My credentials include a Chemical Engineering Bachelor (engineers are everywhere
 ## Projects:
 * [Airbnb Analysis in Sicily](https://github.com/eduardoscovino/Airbnb-data-analysis-sicilia) (in Portuguese)
 * [Pokemon Analysis](https://github.com/eduardoscovino/Pokemon-analysis)
+* [Credit Card Fraud](https://github.com/eduardoscovino/credit-card-fraud)
 ---
