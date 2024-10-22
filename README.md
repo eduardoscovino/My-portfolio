@@ -20,7 +20,8 @@ My credentials include a Chemical Engineering Bachelor (engineers are everywhere
 * [Medium](https://medium.com/@eduardoscovino)
 
 ## Projects:
-* [Airbnb Analysis in Sicily](https://github.com/eduardoscovino/Airbnb-data-analysis-sicilia) (in Portuguese)
-* [Pokemon Analysis](https://github.com/eduardoscovino/Pokemon-analysis)
+* [Running Analytics with Nike Run Club App](https://github.com/eduardoscovino/running-analytics)
 * [Credit Card Fraud](https://github.com/eduardoscovino/credit-card-fraud)
+* [Pokemon Analysis](https://github.com/eduardoscovino/Pokemon-analysis)
+* [Airbnb Analysis in Sicily](https://github.com/eduardoscovino/Airbnb-data-analysis-sicilia) (in Portuguese)
 ---
