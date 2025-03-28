@@ -20,6 +20,7 @@ My credentials include a Chemical Engineering Bachelor (engineers are everywhere
 * [Medium](https://medium.com/@eduardoscovino)
 
 ## Projects:
+* [Titanic Disaster Kaggle Competition](https://github.com/eduardoscovino/titanic-disaster-kaggle)
 * [Predicting Beer Consumption](https://github.com/eduardoscovino/beer_consumption)
 * [Running Analytics with Nike Run Club App](https://github.com/eduardoscovino/running-analytics)
 * [Credit Card Fraud](https://github.com/eduardoscovino/credit-card-fraud)
